@@ -1,0 +1,12 @@
+name: dartvm_api_vs_ffi
+version: 0.0.1
+description: >-
+  Sample code and benchmarks for comparison between Dart VM C API and FFI.
+homepage: https://github.com/mraleph/dartvm_api_vs_ffi
+documentation: https://github.com/mraleph/dartvm_api_vs_ffi
+environment:
+  sdk: '>=2.2.2 <3.0.0'
+dependencies:
+  benchmark_harness: any
+  test: any
+  ffi: any
